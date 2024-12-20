@@ -1,0 +1,35 @@
+body {
+background-image: url('img/ppp.jpg');
+}
+.logo{
+font-family: 'Old English Text MT' , serif;
+text-align: center;
+background-color: rgb(243, 237, 237);
+border-radius: 10px;
+}
+.nav{
+    background-color: rgb(200, 255, 0);
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+    padding: 10px;
+    list-style: none;
+}
+h2{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    background-color: azure;
+    border-radius: 10px;
+}
+img{
+border: 10px solid blue;
+border-radius: 10px;
+height: 180px;
+width: 200px;
+}
+section {
+text-align: center;
+}
